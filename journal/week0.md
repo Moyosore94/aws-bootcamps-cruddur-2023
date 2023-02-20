@@ -13,3 +13,7 @@ I also create zero spend budget
 ### Create a billing alarm
 
 I create a billing for my budget to ensure that it did not go above the threshold
+
+### Recreate Logical Architecture Design
+
+![Cruddur Logical Design]()
