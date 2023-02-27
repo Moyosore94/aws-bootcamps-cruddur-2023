@@ -5,7 +5,7 @@ class NotificationsActivities:
     results = [{
       'uuid': '68f126b0-1ceb-4a33-88be-d90fa7109eee',
       'handle':  'MOYOSORE',
-      'message': 'IT'S SUCH AN AMAZING DAY',
+      'message': 'IT iS SUCH AN AMAZING DAY',
       'created_at': (now - timedelta(days=2)).isoformat(),
       'expires_at': (now + timedelta(days=5)).isoformat(),
       'likes_count': 5,
